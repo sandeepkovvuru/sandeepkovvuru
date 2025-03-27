@@ -23,9 +23,10 @@ Here are some of my key projects:
 ---
 
 ## 📊 GitHub Stats & Contributions
-![GitHub Streak](https://streak-stats.demolab.com/?user=sandeepkovvuru&theme=radical) 
+<img src="https://streak-stats.demolab.com?user=sandeepkovvuru&theme=tokyonight-duo&hide_border=true&fire=DD2727" alt="🔥 Streak Stats" />
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkovvuru&layout=compact&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkovvuru&layout=compact&theme=radical) <br>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sandeepkovvuru&show_icons=true&theme=radical)
 
 ---
